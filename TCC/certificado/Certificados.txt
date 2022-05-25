@@ -1,0 +1,2 @@
+NOME, TEMA, DATA, SHA
+Wallace Silveira De Sá, A Profissão Data Scientist., 27 de outubro de 2021, 2e6f9b0d5885b6010f9167787445617f553a735f
